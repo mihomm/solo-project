@@ -1,0 +1,74 @@
+{
+  "yuruchara": [
+    {
+      "id": 1,
+      "name": "くまモン",
+      "prefectureId": 43,
+      "affiliation": "熊本県",
+      "discription": "くまモン元気だモン"
+    },
+    {
+      "id": 2,
+      "name": "いまばり　バリィさん",
+      "prefectureId": 38,
+      "affiliation": "第一印刷株式会社",
+      "discription": "バリィさん"
+    },
+    {
+      "id": 3,
+      "name": "にしこくん",
+      "prefectureId": 13,
+      "affiliation": "にしこくんプロジェクト",
+      "discription": "武蔵国・国分寺跡から発掘されたあぶみ瓦の妖精"
+    },
+    {
+      "id": 4,
+      "name": "ふっかちゃん",
+      "prefectureId": 11,
+      "affiliation": "深谷市役所",
+      "discription": "埼玉県深谷市イメージキャラクターのふっかちゃんだよぉ"
+    },
+    {
+      "id": 5,
+      "name": "滝の道ゆずる",
+      "prefectureId": 27,
+      "affiliation": "大阪府箕面市",
+      "discription": "ゆずと紅葉の里・箕面をPRするために生まれたゆずのキャラクター"
+    },
+    {
+      "id": 6,
+      "name": "ぐんまちゃん",
+      "prefectureId": 10,
+      "affiliation": "群馬県",
+      "discription": ""
+    },
+    {
+      "id": 7,
+      "name": "さのまる",
+      "prefectureId": 9,
+      "affiliation": "佐野市",
+      "discription": ""
+    },
+    {
+      "id": 8,
+      "name": "しまねっこ",
+      "prefectureId": 32,
+      "affiliation": "島根県観光連盟",
+      "discription": "島根県観光キャラクターの「しまねっこ」にゃ！"
+    },
+    {
+      "id": 9,
+      "name": "みきゃん",
+      "prefectureId": 38,
+      "affiliation": "愛媛県",
+      "discription": "みきゃんは柑橘王国えひめ生まれなんよ〜♪"
+    },
+    {
+      "id": 10,
+      "name": "ポテくまくん",
+      "prefectureId": 11,
+      "affiliation": "埼玉県秩父市",
+      "discription": "秩父のソウルフードみそポテトが大好きなクマの妖精"
+    }
+  ]
+}

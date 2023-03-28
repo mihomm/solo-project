@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ゆるキャラ</title>
+    <style type="text/css">
+      body {
+        background-color: rgb(245, 238, 245);
+        color: rgb(200, 96, 59);
+      }
+      .chara {
+        border: 2px solid coral;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin-left: 30px;
+        margin-right: 30px;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      .id {
+        font-size: 1vw;
+        width: 100%;
+      }
+      .name {
+        font-size: 2vw;
+        font-weight: bold;
+        width: 100%;
+      }
+      .prefecture {
+        font-size: 1vw;
+      }
+      .affiliation {
+        font-size: 1vw;
+      }
+      .discription {
+        font-size: 1vw;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <div class="chara">
+        <div class="id">No.<%= yuruchara.id %></div>
+        <div class="name"><%= yuruchara.name %></div>
+        <div class="image">
+          <!--<img src="../img/<%= yuruchara.id %>.jpeg" alt="yuruchara_image" />-->
+        </div>
+        <div class="prefecture">都道府県：<%= yuruchara.prefectureName %></div>
+        <div class="affiliation">所属：<%= yuruchara.affiliation %></div>
+        <div class="discription">説明：<%= yuruchara.discription %></div>
+      </div>
+    </div>
+  </body>
+</html>
